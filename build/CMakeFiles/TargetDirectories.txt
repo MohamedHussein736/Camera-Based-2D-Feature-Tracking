@@ -1,0 +1,4 @@
+/home/workspace/Camera_Based_2D_Feature_Tracking/build/CMakeFiles/edit_cache.dir
+/home/workspace/Camera_Based_2D_Feature_Tracking/build/CMakeFiles/rebuild_cache.dir
+/home/workspace/Camera_Based_2D_Feature_Tracking/build/CMakeFiles/2D_feature_tracking.dir
+/home/workspace/Camera_Based_2D_Feature_Tracking/build/CMakeFiles/2D_feature_tracking_keypoints_Counter.dir
